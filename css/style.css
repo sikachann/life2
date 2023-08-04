@@ -1,0 +1,53 @@
+.top{
+    
+
+}
+.top_a{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto; 
+}
+
+.top_log img{
+    margin-left: 200px;
+}
+.top_contact_us img{
+    width: 25px;
+    background-color: #6eb92b;
+    border-radius: 100%;
+}
+.top_contact_us{
+    margin-right: 200px;
+}
+.top_navi_a{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    width: 80%;
+}
+.top_navi{
+    background-color: #6eb92b;
+    
+}
+.top_navi :hover{
+    cursor: pointer;
+    background-color: chocolate;
+}
+.top_navi_store img{
+    width: 25px;
+}
+
+.top_navi_ns img{
+    width: 25px;
+}
+
+.top_navi_enterprise_info img{
+    width: 23px;
+}
+.top_navi_ir img{
+    width: 25px;
+}
+.top_navi_recruit img{
+    width: 25px;
+}
