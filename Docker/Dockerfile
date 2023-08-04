@@ -10,4 +10,4 @@ RUN docker-php-ext-install mbstring
 
 WORKDIR /dist
 
-CMD ["php", "-S", "0.0.0.0:8000", "-t", "/dist"]
+CMD ["php", "-S", "0.0.0.0:8080", "-t", "/dist"]
