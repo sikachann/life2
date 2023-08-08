@@ -1,4 +1,3 @@
-
 .top_a{
     display: flex;
     justify-content: space-between;
@@ -22,12 +21,19 @@
     align-items: center;
     margin: 0 auto;
     width: 80%;
+    padding: 4px;
 }
 .top_navi{
     background-color: #6eb92b;
     
 }
-.top_navi :hover{
+
+.top_navi_home :hover{
+    cursor: pointer;
+    background-color: chocolate;
+    } 
+
+.top_navi_store :hover{
     cursor: pointer;
     background-color: chocolate;
 }
@@ -35,16 +41,39 @@
     width: 25px;
 }
 
+.top_navi_ns :hover{
+    cursor: pointer;
+    background-color: chocolate;
+}
 .top_navi_ns img{
     width: 25px;
 }
 
+.top_navi_enterprise_info :hover{
+    cursor: pointer;
+    background-color: chocolate;
+}
 .top_navi_enterprise_info img{
     width: 23px;
+}
+
+.top_navi_ir :hover{
+    cursor: pointer;
+    background-color: chocolate;
 }
 .top_navi_ir img{
     width: 25px;
 }
+
+.top_navi_recruit :hover{
+    cursor: pointer;
+    background-color: chocolate;
+}
 .top_navi_recruit img{
     width: 25px;
+}
+
+.slide_img{
+    display: flex;
+    align-items: center;
 }
