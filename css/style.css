@@ -73,7 +73,10 @@
     width: 25px;
 }
 
-.slide_img{
+.swiper_slide{
     display: flex;
     align-items: center;
+}
+.swiper-slide img{
+    width: 980px;
 }

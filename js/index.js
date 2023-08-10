@@ -3,7 +3,7 @@ const swiper = new Swiper(".swiper", {
     centeredSlides: true,
     loop: true,
     speed: 1000,
-    slidesPerView: 1.5,
+    slidesPerView: 1.0,
     pagination: {
         el: ".swiper-pagination",
     },
@@ -21,5 +21,5 @@ const swiper = new Swiper(".swiper", {
         790:{
             slidesPerView:1.5
         }
-        },
-    });
+    },
+});
