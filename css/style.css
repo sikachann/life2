@@ -80,3 +80,56 @@
 .swiper-slide img{
     width: 980px;
 }
+.main{
+    background-color: antiquewhite;
+}
+.main_topics_tema{
+    width: 70%;
+    margin: auto;
+    border-bottom: 3px solid #6eb92b;
+    font-size: 20px;
+}
+.main_topics_image{
+    width: 70%;
+    display: flex;
+    margin: auto;
+    padding: 20px;
+}
+.main_topics_images{
+    width: 70%;
+    display: flex;
+    margin: auto;
+    padding: 20px;
+}
+.main_container_line{
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    width: 70%;
+}
+
+.main_container_line-item {
+    width: 100%;
+    margin: 10px;
+    background-color: #F08C02;
+    
+}
+
+/* /*疑似要素 */
+.main_container_line-item img {
+    width: 100%;
+}
+
+.main_container_line-item a:hover {
+    cursor: pointer;
+    color: #ee981f;
+}
+
+.main_container_line-item a{
+    text-decoration: none;
+    color:white;
+    text-align: center;
+    font-weight: bold;
+}
+
+
