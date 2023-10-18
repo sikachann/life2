@@ -284,6 +284,26 @@
   width: 100%;
 }
 
+.topfooter_box{
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  background-color: #6eb92b;
+  margin-top: 5%;
+
+}
+.topfooter_box_inner{
+  padding: 5%;
+}
+.topfooter_box_inner a{
+  text-decoration: none;
+  color: white;
+}
+.topfooter_box img{
+  width: 140px;
+}
+
+
 
 .footer_sitemap{
   width: 70%;
