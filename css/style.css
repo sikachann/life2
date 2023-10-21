@@ -128,7 +128,7 @@
 }
 .main_container_line-item a {
   text-decoration: none;
-  color: white;
+  color: #ffffff;
   text-align: center;
   font-weight: bold;
 }
@@ -153,14 +153,14 @@
 }
 .middle_container_sns_p_fb  {
   background-color: rgb(6, 6, 99);
-  color: white;
+  color: #ffffff;
   font-weight: bold;
   text-align: center;
   margin: auto;
   padding: 10px;
 }
 .middle_container_sns_block_fb{
-  background-color: white;
+  background-color: #ffffff;
   width: 50%;
   margin-right: 3%;
 
@@ -172,13 +172,13 @@
   text-align: center;
 }
 .middle_container_sns_block_yb{
-  background-color: white;
+  background-color: #ffffff;
   width: 50%;
 
 }
 .middle_container_sns_p_yb  {
   background-color: rgb(220, 11, 11);
-  color: white;
+  color: #ffffff;
   font-weight: bold;
   text-align: center;
   margin: auto;
@@ -187,7 +187,7 @@
 
 .middle_container_sns_p_in {
   background-color: rgb(248, 77, 165);
-  color: white;
+  color: #ffffff;
   font-weight: bold;
   padding: 10px;
   text-align: center;
@@ -207,7 +207,7 @@
 .middle_container_b{
   width: 70%;
   margin: auto;
-  background-color: white;
+  background-color: #ffffff;
 }
 .middle_container_sns_main_in{
   width: 100%;
@@ -248,7 +248,7 @@
   text-decoration: none;
   text-align: center;
   font-weight: bold;
-  color: black;
+  color: #000000;
 }
 
 
@@ -278,11 +278,31 @@
 
 .news_box_link_inner a{
   text-decoration: none;
-  color: black;
+  color: #000000;
 }
 .news_box_link img{
   width: 100%;
 }
+
+.topfooter_box{
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  background-color: #6eb92b;
+  margin-top: 50px;
+
+}
+.topfooter_box_inner{
+  margin: 60px;
+}
+.topfooter_box_inner a{
+  text-decoration: none;
+  color: #ffffff;
+}
+.topfooter_box img{
+  width: 140px;
+}
+
 
 
 .footer_sitemap{
@@ -298,7 +318,7 @@
 }
 .footer_sitemap_inf_inner a{
   text-decoration: none;
-  color: black;
+  color: #000000;
 }
 .footer_sitemap_inf_inner a :hover{
   cursor: pointer;
@@ -306,7 +326,7 @@
   opacity: 1;
 }
 .footer_info{
-  background-color: black;
+  background-color: #000000;
   display: flex;
   justify-content: center;
 }
@@ -315,7 +335,7 @@
 }
 .footer_info_sitmap a{
   text-decoration: none;
-  color: white;
+  color: #ffffff;
 }
 
 .footer_info_sitmap a:hover{
